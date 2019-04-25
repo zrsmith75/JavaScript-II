@@ -2,6 +2,16 @@
 // Write a simple closure of your own creation.  Keep it simple!
 
 
+let greeting = "Hello fellow student ";
+
+
+
+function useGreeting() {
+  console.log(`${greeting} ${name} how you doing ?`);
+}
+name = Zac;
+useGreeting();
+
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
 
